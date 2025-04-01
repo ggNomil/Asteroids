@@ -1,3 +1,3 @@
 # Asteroids
 
-guided tutorial from Boot.dev
+guided project from Boot.dev
